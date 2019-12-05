@@ -1,12 +1,10 @@
 # KSM Faucet
 
-__⚠️⚠️⚠️ The faucet is not yet operational, please check back later. ⚠️⚠️⚠️__
-
 ## Instructions
 
 Anyone can get KSM at the public faucet after genesis. Unlike test network tokens, we expect KSM to be a scarce resource and the faucet is designed to limit the amount of tokens distributed to each individual.
 
-In order to prevent Sybil attacks, the faucet will only drip to users that have a GitHub account that was created prior to June, 21, 2019. If you do not have a GitHub account that was created prior to this date, please use the [KSM Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfGAqjXY3xLokwl7A-R4JZAnrBnSI3BVXKMKDLCKVtHaxgs-w/formResponse) to request tokens.  
+In order to prevent Sybil attacks, the faucet will only drip to users that have a GitHub account that was created prior to June, 21, 2019. If you do not have a GitHub account that was created prior to this date, please use the [KSM Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfGAqjXY3xLokwl7A-R4JZAnrBnSI3BVXKMKDLCKVtHaxgs-w/formResponse) to request tokens.
 ### Requirements:
 
 - Github account with a creation date **before** 21 June 2019
@@ -78,7 +76,7 @@ See the [`subkey` documentation](https://substrate.dev/docs/en/ecosystem/subkey)
 
 Once you have generated your Kusama address containing the string `ksma`, you are ready to request KSM from the faucet.
 
-1. Log in to Github. Go to the [faucet repo](https://github.com/kusamanetwork/faucet/issues) of the Kusama Network organization.  
+1. Log in to Github. Go to the [faucet repo](https://github.com/kusamanetwork/faucet/issues) of the Kusama Network organization.
 2. Click on the Issues tab, then click "New Issue".
 3. Enter any text for the "Title" textbox - it will be ignored.
 4. In the "Leave a comment" textbox, enter the address you generated in Step 1 (which must include the string "ksma"). Do not enter any text other than this address.
@@ -100,4 +98,4 @@ The faucet's wallet will be periodically refilled from the address above.
 
 ### Support:
 
-If you are having difficulties using the faucet, please join the [Kusama Watercooler chat](https://riot.w3f.tech/#/room/#kusamawatercooler:polkadot.builders) and somebody will try to help you.  
+If you are having difficulties using the faucet, please join the [Kusama Watercooler chat](https://riot.w3f.tech/#/room/#kusamawatercooler:polkadot.builders) and somebody will try to help you.
