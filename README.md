@@ -92,9 +92,7 @@ Once you have generated your Kusama address containing the string `ksma`, you ar
 
 ### Donations:
 
-If you want to support the faucet, please send KSM to this address: **EaG2CRhJWPb7qmdcJvy3LiWdh26Jreu9Dx6R1rXxPmYXoDk**
-
-The faucet's wallet will be periodically refilled from the address above.
+If you want to support the faucet, please send KSM to its wallet address: **EaG2CRhJWPb7qmdcJvy3LiWdh26Jreu9Dx6R1rXxPmYXoDk**
 
 ### Support:
 
