@@ -49,12 +49,12 @@ Alternatively, you can build `subkey` from the source code.
 
 #### Usage
 
-The command `subkey --network kusama vanity "ksma"` will generate a new key-pair where the address contains the string  `ksma`.
+The command `subkey --network kusama vanity "ksma" --number 1` will generate a new key-pair where the address contains the string  `ksma`.
 
 Depending on the hardware configuration of your computer and on luck, this computation may take anywhere from a few seconds to approximately 10 minutes.
 
 ```
-$ subkey --network kusama vanity "ksma"
+$ subkey --network kusama vanity "ksma" --number 1
   Generating key containing pattern 'ksma'
   100000 keys searched; best is 190/237 complete
   200000 keys searched; best is 201/237 complete
