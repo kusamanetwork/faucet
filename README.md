@@ -96,4 +96,4 @@ If you want to support the faucet, please send KSM to its wallet address: **EaG2
 
 ### Support:
 
-If you are having difficulties using the faucet, please join the [Kusama Watercooler chat](https://riot.w3f.tech/#/room/#kusamawatercooler:polkadot.builders) and somebody will try to help you.
+If you are having difficulties using the faucet, please join the [Kusama Watercooler chat](https://matrix.to/#/%23kusamawatercooler%3Apolkadot.builders) and somebody will try to help you.
