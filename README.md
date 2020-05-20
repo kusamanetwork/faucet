@@ -4,8 +4,6 @@
 
 Anyone can get KSM at the public faucet after genesis. Unlike test network tokens, we expect KSM to be a scarce resource and the faucet is designed to limit the amount of tokens distributed to each individual.
 
-In order to prevent Sybil attacks, the faucet will only drip to users that have a GitHub account that was created prior to June, 21, 2019. If you do not have a GitHub account that was created prior to this date, please use the [KSM Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfGAqjXY3xLokwl7A-R4JZAnrBnSI3BVXKMKDLCKVtHaxgs-w/formResponse) to request tokens.
-
 ### Step 1: Generate an Address
 
 The faucet will only drip to addresses that contain the string `ksma`(case-insensitive, that is, `KSMA` or `kSmA` would work). It will also never drip to the same address twice. Thus, a new address has to be created each time a user requests KSM tokens.
